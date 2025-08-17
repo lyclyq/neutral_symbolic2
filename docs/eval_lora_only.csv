@@ -1,0 +1,505 @@
+image_path,gt,lora_pred,bleu_lora,bertscore_lora,semantic_lora
+coco/val2017/000000179765.jpg,A black Honda motorcycle parked in front of a garage.,A motorcycle parked in front of a garage.,0.6771219109764864,0.8281676173210144,0.90017515
+coco/val2017/000000190236.jpg,An office cubicle with four different types of computers.,A computer desk with a computer and a chair.,0.02573285025273419,0.5063880085945129,0.6031444
+coco/val2017/000000331352.jpg,A small closed toilet in a cramped space.,A toilet with a bidet and a water fountain on the tank.,0.026380696981716002,0.44691234827041626,0.6376834
+coco/val2017/000000517069.jpg,Two women waiting at a bench next to a street.,A man sitting on a bench next to a tall building.,0.3508439695638686,0.7201399803161621,0.4091788
+coco/val2017/000000182417.jpg,A beautiful dessert waiting to be shared by two people,A plate of food with a dessert and utensils.,0.027383594129005207,0.18667683005332947,0.58520496
+coco/val2017/000000046378.jpg,A cat eating a bird it has caught.,A cat eating a dead bird on top of a table.,0.24808415001701817,0.6304739117622375,0.8413553
+coco/val2017/000000093437.jpg,A shot of an elderly man inside a kitchen.,An older man wearing a hat and glasses.,0.03001448585400683,0.39952364563941956,0.56310177
+coco/val2017/000000172330.jpg,A cat in between two cars in a parking lot.,A cat standing on the grass between two cars.,0.07999297204820358,0.7468831539154053,0.8305641
+coco/val2017/000000472678.jpg,An office cubicle with multiple computers in it,A computer desk with two monitors and a keyboard.,0.02573285025273419,0.5115159153938293,0.6338234
+coco/val2017/000000314251.jpg,A parade of motorcycles is going through a group of tall trees.,A group of people riding motorcycles down a street.,0.056952389785504105,0.5291662216186523,0.7389553
+coco/val2017/000000223747.jpg,a man sleeping with his cat next to him,A man laying in bed with a cat.,0.03321648882373042,0.6966593265533447,0.81646466
+coco/val2017/000000109976.jpg,An all white kitchen with an electric stovetop. ,"A kitchen with a stove, microwave and cabinets.",0.07122722710132624,0.5498855113983154,0.736308
+coco/val2017/000000012667.jpg,The telephone has a banana where the receiver should be.,A banana sitting on top of a phone.,0.026487690798830184,0.28920114040374756,0.8280677
+coco/val2017/000000482917.jpg,"A dog sitting between its masters feet on a footstool watching tv
+",A dog laying on a man's lap while he watches TV.,0.06702973333815519,0.4964016377925873,0.68646085
+coco/val2017/000000534605.jpg,Man in motorcycle leathers standing in front of a group of bikes,A group of bikers standing around a group of motorcycles.,0.1196981371789174,0.5694108009338379,0.66971254
+coco/val2017/000000289393.jpg,Set of toy animals sitting in front of a red wooden wagon.,A couple of animals standing next to each other.,0.021927068045387584,0.40192586183547974,0.46244565
+coco/val2017/000000561256.jpg,A woman wearing a hat & pink top takes a selfie in front of a bathroom mirror.,A woman taking a selfie in a bathroom mirror.,0.11351574993398084,0.6946868896484375,0.8263998
+coco/val2017/000000338325.jpg,A striped plane flying up into the sky as the sun shines behind it.,A large jetliner flying through a cloudy sky.,0.01606559657447872,0.4767368733882904,0.68976843
+coco/val2017/000000065485.jpg,A dog driving an SUV in an open grass covered field.,A dog is sitting in the back of a jeep.,0.05702871379988104,0.4746090769767761,0.73760533
+coco/val2017/000000226662.jpg,A customized motorcycle with more in the background.,A motorcycle parked on the side of a road.,0.033866335496821456,0.4536580741405487,0.6444549
+coco/val2017/000000011511.jpg,A sculpture of two women stting on a bench with their purses on the ground while people standing in a line behind them. ,A couple of people sitting on a bench.,0.013735007030265839,0.3626662492752075,0.52880347
+coco/val2017/000000221754.jpg,There is very little traffic at this city intersection.,A street scene with buildings and traffic lights.,0.02523907356031767,0.21139957010746002,0.5067663
+coco/val2017/000000249025.jpg,An orange reddish rose in a vase filled with water on top of a table.,A yellow rose in a clear vase on a table.,0.10674655567089011,0.6986250281333923,0.7945057
+coco/val2017/000000255965.jpg,A cat pausing as it's picture is taken.,A cat sitting on a ledge near a brick wall.,0.056950849982219685,0.40016818046569824,0.49973494
+coco/val2017/000000051598.jpg,A black trash bag in a restroom next to a sink.,"A bathroom with a sink, mirror and a door.",0.027118041532034117,0.3867582678794861,0.60660505
+coco/val2017/000000445846.jpg,A clean kitchen with the windows white and open.,"A kitchen with a stove, sink, refrigerator and a window.",0.06772635600430824,0.5027589201927185,0.7480135
+coco/val2017/000000192871.jpg,A glass bowl filled with oranges on a table.,A bowl of fruit with oranges and apples.,0.07475095167059852,0.512921154499054,0.7475929
+coco/val2017/000000365642.jpg,A young attractive woman sitting on a toilette on the side of a street.,A woman sitting on a toilet on the side of a street.,0.5496509142160036,0.8370856642723083,0.93939674
+coco/val2017/000000393569.jpg,A young woman using a laptop computer while sitting on a bunk bed.,A person laying in a bed next to a toilet.,0.02287039180347337,0.575995147228241,0.39004895
+coco/val2017/000000116479.jpg,An old victorian style bed frame in a bedroom.,A bed with a canopy and a rug on the floor.,0.02568481047180467,0.32051143050193787,0.59259003
+coco/val2017/000000063740.jpg,Two computers sitting on top of a desk.,A computer desk with a laptop and a desktop.,0.02573285025273419,0.5004827976226807,0.66251314
+coco/val2017/000000570736.jpg,A view of a bathroom that is clean.,"A bathroom with a toilet, sink, and bathtub.",0.03763921292692165,0.3398202061653137,0.67806494
+coco/val2017/000000492937.jpg,A close up of a bike brake on a bicycle.,A bike parked next to a train station.,0.029313448501677924,0.34906527400016785,0.43799356
+coco/val2017/000000117425.jpg,A toddler celebrates his birthday with a cupcake.,A young boy is about to blow out a candle.,0.027895820162122397,0.44193416833877563,0.5186411
+coco/val2017/000000159977.jpg,A giraffe and a zebra checking each other out.,A zebra and a giraffe standing in a grassy field.,0.07161190261650083,0.594291090965271,0.8815053
+coco/val2017/000000232538.jpg,A yellow and blue train is next to an overhang.,A train is parked at a train station.,0.061389660515260625,0.40480270981788635,0.6396581
+coco/val2017/000000177934.jpg,A group of women operating a car wash.,A group of people washing a motorcycle in the street.,0.13826707794313167,0.6169739365577698,0.61424756
+coco/val2017/000000096549.jpg,An airplane on the runway either just landed or ready to take off.,A large Egyptair airplane taking off from an airport.,0.016499398920457962,0.4016415774822235,0.6376171
+coco/val2017/000000469192.jpg,A car is parked on dry grass with kites overhead.,A white truck parked in a field with lots of kites flying above.,0.026480261910431388,0.6352521777153015,0.7701663
+coco/val2017/000000044652.jpg,A flying plane with smoke trailing behind it.,A small airplane flying through a cloudy sky.,0.03401086821506398,0.45743340253829956,0.69153875
+coco/val2017/000000210502.jpg,Part of train car with a door to the rear connected to the car behind it,A train car with a door that has diagonal stripes.,0.21558125124241434,0.4612422287464142,0.82464606
+coco/val2017/000000298396.jpg,Kitchen area with counter top space and dining room table. ,A kitchen with a table and a clock on the wall.,0.02568481047180467,0.4077957570552826,0.70736575
+coco/val2017/000000187513.jpg,A bathroom with a sliding shower door next to a toilet.,"A bathroom with a sink, toilet, shower and mirror.",0.25271148634948987,0.5738299489021301,0.64055604
+coco/val2017/000000552883.jpg,"A view of a kitchen with cabinets, a sink and a clothes washer.","A kitchen with a sink, dishwasher and wooden cabinets.",0.05096323756660619,0.61409991979599,0.77311957
+coco/val2017/000000228214.jpg,A Marine that is looking at his cell phone.,A man in a military uniform is looking at his cell phone.,0.43361890903486755,0.7025856971740723,0.7987354
+coco/val2017/000000453634.jpg,A bathroom with a toilette with it's seat down.,A bathroom with a toilet and a sink.,0.3050975216056289,0.5535418391227722,0.66562617
+coco/val2017/000000201775.jpg,A bathroom with two urinals and a sink.,A bathroom with two urinals and a sink.,1.0,1.0,0.99999994
+coco/val2017/000000391375.jpg,A girl sitting on a bench in front of a stone wall.,A woman sitting on a bench in front of a brick wall.,0.6484115071397645,0.9431737661361694,0.8636255
+coco/val2017/000000557501.jpg,A bathroom is very colorful with blue yellow and red.,A public restroom with two sinks and a trash can.,0.03087179980863256,0.24477903544902802,0.52361995
+coco/val2017/000000435880.jpg,A refrigerator next to a red wall in the kitchen. ,A kitchen with a refrigerator freezer next to a black freezer.,0.13190955568171472,0.5883554816246033,0.6310972
+coco/val2017/000000555050.jpg,"A car driving in an intersection, past a furniture shop. ",A car is driving down the street in front of a furniture store.,0.06925448261712436,0.677462100982666,0.89831686
+coco/val2017/000000466085.jpg,A bathroom that has been gutted with the shower basin the only thing left.,A bathroom that is being remodeled with a tub and a window.,0.0962749922881916,0.5007303357124329,0.5917489
+coco/val2017/000000442009.jpg,a bathroom with a bath tub near windows,A bathroom with a large tub and a window.,0.16418110161559327,0.7179697751998901,0.87942684
+coco/val2017/000000127987.jpg,A baseball player bobble head next to two computer monitors on a desk.,A figurine is sitting on a desk in front of a computer.,0.048616370931736465,0.4216043949127197,0.5128195
+coco/val2017/000000368335.jpg,a brown horse is walking in between two cars,A horse walking between two cars on a street.,0.17183771017498592,0.6868869662284851,0.9078032
+coco/val2017/000000423798.jpg,A street at night is lit up by streetlights.,A street light that is very bright at night.,0.07517081801936397,0.576103925704956,0.77781075
+coco/val2017/000000140420.jpg,A motorcycle is parked on a dirt road in a forest.,A person riding a motorcycle down a dirt road.,0.06364538159572017,0.6559390425682068,0.66085356
+coco/val2017/000000204186.jpg,Racers riding four wheelers while a crowd watches.,Two men riding on the back of a four wheeler.,0.03087179980863256,0.534349262714386,0.59689295
+coco/val2017/000000040471.jpg,An older picture of a large kitchen with white appliances.,"A kitchen with a stove, refrigerator and a window.",0.06259788353343847,0.4315522611141205,0.6883266
+coco/val2017/000000010363.jpg,A gray cat standing on top of a black car.,A cat standing on the hood of a car.,0.17685732282413552,0.7286903858184814,0.8587257
+coco/val2017/000000173008.jpg,A man in a tropical print shirt with glasses and long hair is eating a banana.,A man in a Hawaiian shirt eating a banana.,0.20505259405001922,0.635088324546814,0.8927798
+coco/val2017/000000452793.jpg,A kitchen with a granite counter top and faucet.,A kitchen with a refrigerator and a sink.,0.32260135189272865,0.5985773801803589,0.62943506
+coco/val2017/000000456865.jpg,An airplane just landed on the runway ,A large jetliner sitting on top of an airport runway.,0.023457495174891017,0.4252723455429077,0.6222201
+coco/val2017/000000504711.jpg,A fork rests on a plate next to a piece of cake.,A piece of chocolate cake with a fork on a plate.,0.07709514042684035,0.5757108330726624,0.86456025
+coco/val2017/000000288584.jpg,A person dressed as a giraffe carrying a bullhorn.,A group of people standing around a giraffe statue.,0.0699543285114998,0.5171940326690674,0.5563482
+coco/val2017/000000551304.jpg,A white and gold fancy toilet and stainless trash can.,A white toilet with gold trim in a bathroom.,0.06726580344082496,0.4786079227924347,0.7996241
+coco/val2017/000000276284.jpg,A motorcycle is parked in a parking lot.,A motorcycle parked in a parking space at night.,0.3549481056010053,0.7499284744262695,0.7628991
+coco/val2017/000000103548.jpg,A herd of animals traveling down a country road surrounded by a lush green landscape.,A herd of sheep walking down a road.,0.08653155368716638,0.6976944208145142,0.76694334
+coco/val2017/000000226408.jpg,Child laying down with arms extended in the air.,A young girl laying on top of a bed.,0.02573285025273419,0.3236008882522583,0.5528325
+coco/val2017/000000558073.jpg,a cat sitting in a bathtub not looking amused,A cat is sitting in the bottom of a tub.,0.06772635600430824,0.5694948434829712,0.82886785
+coco/val2017/000000102411.jpg,Two people riding a motorcycle to the beach.,A man riding a motorcycle down a street next to the ocean.,0.1330902448888712,0.7029812335968018,0.6810821
+coco/val2017/000000048924.jpg,A dirt bike parked near a tent in the woods.,A motorcycle parked next to a tent in a field.,0.14619963489696408,0.80036461353302,0.87666583
+coco/val2017/000000230008.jpg,a traffic motorcycle cop waits to give a ticket,A police officer standing next to a motorcycle.,0.03001448585400683,0.38671305775642395,0.76625097
+coco/val2017/000000181666.jpg,a flock of goats and some men watching them,A herd of sheep walking across a dirt field.,0.030601688609851067,0.4284430146217346,0.5933876
+coco/val2017/000000543047.jpg,A scene of an apartment with a dining table and a couple of couches.,A living room filled with furniture and a flat screen TV.,0.04699453531974556,0.4150073230266571,0.5704002
+coco/val2017/000000565391.jpg,A jeep with a dead bird on the windshield.,A cat laying on top of a black jeep.,0.033866335496821456,0.5397731065750122,0.6778377
+coco/val2017/000000485802.jpg,An airplane leaving a trail in the sky.,A jet flying through a cloudy sky leaving a trail behind.,0.11609514815067873,0.6965078115463257,0.8834813
+coco/val2017/000000086220.jpg,A car and a public transit vehicle on a road.,A silver car driving past a blue and white bus.,0.033173907815632314,0.38461774587631226,0.70389307
+coco/val2017/000000412894.jpg,Dozens of people walking around a metro area,A traffic light sitting on the side of a road.,0.027895820162122397,0.35150352120399475,0.20289183
+coco/val2017/000000099054.jpg,some planes on an air port run way,A large jetliner sitting on top of an airport tarmac.,0.027895820162122397,0.4395948350429535,0.59318423
+coco/val2017/000000026564.jpg,An office desk with a row of books and a desktop computer and laptop computer on the desk.,A computer monitor sitting on top of a desk.,0.014155848690857703,0.46319380402565,0.55288494
+coco/val2017/000000062025.jpg,An image of a hotel bathroom that is ugly.,"A bathroom with a sink, toilet, mirror and a tub.",0.027895820162122397,0.24190253019332886,0.5964508
+coco/val2017/000000489091.jpg,A residential bathroom has a modern motel look with upgraded fixtures and accessories.,"A bathroom with a toilet, sink, mirror and shower.",0.024672356066589542,0.36480289697647095,0.51413804
+coco/val2017/000000155154.jpg,The bathroom is small and white and gray.,"A bathroom with a toilet, sink and a trash can.",0.027895820162122397,0.4001307487487793,0.5765285
+coco/val2017/000000071711.jpg,A large airplane museum with old war planes.,A couple of planes sitting inside of a hangar.,0.02573285025273419,0.42329004406929016,0.7165267
+coco/val2017/000000152771.jpg,A bike in the middle of an empty parking lot next to trees,A bike parked in a parking lot next to a tree.,0.24177037175577334,0.7696617841720581,0.8643552
+coco/val2017/000000437392.jpg,A toilet that is decorated like a pink stuffed animal,A toilet seat that has been decorated to look like a ladybug.,0.07472892616029096,0.5880054831504822,0.73679984
+coco/val2017/000000571804.jpg,Ten porcelain pieces with floral patterns painted on them.,A display case filled with lots of white porcelain.,0.02573285025273419,0.402361661195755,0.655629
+coco/val2017/000000078404.jpg,Three women sitting on a park bench next to each other.,A group of people sitting on a bench next to a field.,0.17800562191274083,0.6220619678497314,0.63233894
+coco/val2017/000000308631.jpg,People stand around an antique motorcycle in a grassy area.,A group of people standing around a white motorcycle.,0.027383594129005207,0.5201987624168396,0.80228424
+coco/val2017/000000423971.jpg,A toilet with an illuminated seat in a restroom.,A toilet with a light on it in a bathroom.,0.16179649260725834,0.7751548290252686,0.8486594
+coco/val2017/000000304560.jpg,A black ct with green eyes sitting in the sun.,A black cat sitting in a grassy field.,0.07844900051649088,0.465468168258667,0.3541323
+coco/val2017/000000221708.jpg,Lights shine on a wooden dining room table.,"A kitchen with a table, refrigerator and a TV.",0.02573285025273419,0.28203195333480835,0.48792386
+coco/val2017/000000026204.jpg,A street filled with lots of traffic next to tall buildings.,A city street with cars and a bus.,0.02586902750680382,0.5477333664894104,0.6261247
+coco/val2017/000000085576.jpg,A commercial bathroom stall with empty toilet paper holders.,A toilet in a bathroom with a toilet paper roll on the wall.,0.05564101947390608,0.594409704208374,0.7409106
+coco/val2017/000000153217.jpg,a black cat standing in front of a motorcycle,A black cat standing next to a parked motorcycle.,0.15527289920984508,0.8315650224685669,0.96443594
+coco/val2017/000000270066.jpg,A motorcycle is parked near a puddle and a van.,A white motorcycle parked in front of a white truck.,0.033173907815632314,0.5514941811561584,0.60170346
+coco/val2017/000000348708.jpg,The banana is laying next to an almost empty bowl.,A banana and a bowl of food on a table.,0.023457495174891017,0.43206822872161865,0.76940656
+coco/val2017/000000224051.jpg,A bike is perched on a concrete girder on the road.,A red bike parked on the side of a road.,0.06781895221027241,0.581261157989502,0.6632796
+coco/val2017/000000163746.jpg,A pretty young girl standing next to another pretty young girl on a beach.,A woman walking on the beach next to a little girl.,0.04969067118584156,0.6239277124404907,0.6609022
+coco/val2017/000000382122.jpg,A large church building with a massive clock tower.,A large brick building with a clock tower.,0.2141223771037455,0.8120691180229187,0.7661226
+coco/val2017/000000571857.jpg,"In the desert, two people are sitting next to a small propeller plane next to a tent with other planes in the background.",A couple sitting on a bench next to a green tent.,0.044309868283866724,0.4011365473270416,0.5293657
+coco/val2017/000000209747.jpg,A gray and white kitten sitting in a bathroom sink.,A kitten sitting in a bathroom sink next to a scrub brush.,0.33180774028439425,0.6730716228485107,0.87814605
+coco/val2017/000000575205.jpg,A small plane is preparing to land on the strip,A small airplane taking off from a runway.,0.05547182024251767,0.5930564403533936,0.808709
+coco/val2017/000000017379.jpg,a flat screen TV embedded in a restroom mirror.,A bathroom with a flat screen TV mounted to the wall.,0.23462350320528,0.5781102180480957,0.8562611
+coco/val2017/000000055002.jpg,A metallic toilet sitting in a small bathroom.,A silver toilet in a bathroom next to a metal sink.,0.061729293904138435,0.6575826406478882,0.7578057
+coco/val2017/000000202228.jpg,The reflection of a man taking  a picture in a mirror,A man taking a selfie in a bathroom mirror.,0.145490988721241,0.5335295796394348,0.7498966
+coco/val2017/000000194832.jpg,A television screen is displayed in an empty bus.,A bus with seats and a driver sitting in the front.,0.02568481047180467,0.4025181233882904,0.48301452
+coco/val2017/000000147518.jpg,A bathroom that has magazine rack and small cabinet.,"A bathroom with a toilet, sink, and shower curtain.",0.0699543285114998,0.5023185014724731,0.5444176
+coco/val2017/000000003661.jpg,A bunch of bananas sitting on top of a wooden table.,A bunch of bananas sitting on top of a wooden table.,1.0,1.0,0.99999994
+coco/val2017/000000147740.jpg,A woman walking while carrying bananas on her hat.,A woman walking down a street with a bunch of bananas on her head.,0.15153438325291735,0.6799741387367249,0.81519616
+coco/val2017/000000243204.jpg,A person is holding a spatula near slices of bread on a stove.,A person wearing a mask and gloves while cooking a sandwich.,0.051466978923295874,0.506014347076416,0.6240257
+coco/val2017/000000368900.jpg,A cluttered room filled with a tv and a kitchen. ,A living room filled with a tv and a stool.,0.6606328636027614,0.6933836936950684,0.65658414
+coco/val2017/000000214192.jpg,two motocross racers in the middle of a race,Two men racing motorcycles on a dirt road.,0.02523907356031767,0.4291903078556061,0.7923769
+coco/val2017/000000134096.jpg,A calico cat drinking from a sink faucet.,A cat standing on the edge of a sink.,0.033866335496821456,0.6270097494125366,0.74965024
+coco/val2017/000000441586.jpg,"MAN ON A CONTRAPTION, SURROUNDED BY A BICYCLE AND ANOTHER PERSON",A man riding a bike with a tire for a wheel.,0.021598265052211615,0.051569417119026184,0.59557915
+coco/val2017/000000425221.jpg,A plane is flying away from the airport,A man standing in a airport next to a large window.,0.02568481047180467,0.25360700488090515,0.2955621
+coco/val2017/000000163155.jpg,A cat crouched over sitting by a brick wall.,A cat sitting on a ledge next to a brick wall.,0.1527898075109779,0.7278488278388977,0.88833463
+coco/val2017/000000216497.jpg,Some chairs sit at an island near an open door. ,A kitchen with a bar and a stove top oven.,0.0,0.23314304649829865,0.22265542
+coco/val2017/000000515266.jpg,A white truck parked next to a white trailer.,A white truck parked next to a trailer.,0.767279645960659,0.9269495010375977,0.98838544
+coco/val2017/000000360564.jpg,A walk in shower next to a toilet with a wooden seat.,"A bathroom with a toilet, sink and shower.",0.04781031568177268,0.4496355652809143,0.7019708
+coco/val2017/000000090631.jpg,A colorful fighter jet flying through a blue sky.,A small airplane flying through a blue sky.,0.47750342648354643,0.7795019149780273,0.68034697
+coco/val2017/000000427338.jpg,A city made out of stone brick with large arches.,A couple of people riding motorcycles down a narrow road.,0.027895820162122397,0.2679867148399353,0.16830999
+coco/val2017/000000058705.jpg,A man wearing a helmet while holding a banana next to a woman wearing a helmet.,A man and woman in a photo booth wearing funny hats.,0.0414297421023097,0.4620336890220642,0.48155192
+coco/val2017/000000360943.jpg,An orange cat sitting in front of a door to a house.,A cat sitting on a step outside of a house.,0.08076104711931732,0.6944449543952942,0.73930293
+coco/val2017/000000302760.jpg,A bathroom sink with a marble counter top under a large mirror.,A bathroom sink with a black marble counter top.,0.3678278000487881,0.8280966281890869,0.9120834
+coco/val2017/000000252219.jpg,a person with a shopping cart on a city street ,A man standing next to a shopping cart filled with luggage.,0.12475235543331888,0.5412090420722961,0.6280072
+coco/val2017/000000313182.jpg,A purple and white bus driving down a street.,A purple and white bus driving down a street.,1.0,1.0,1.0000001
+coco/val2017/000000098520.jpg,A large passenger jet sitting on top of an airport runway.,A large passenger jet sitting on top of an airport tarmac.,0.8931539818068694,0.9340364336967468,0.93092364
+coco/val2017/000000354072.jpg,A bathroom sink under a mirror next to a plant.,"A bathroom with a sink, mirror and a plant.",0.08852677586884013,0.6506687998771667,0.9255097
+coco/val2017/000000206135.jpg,A herd of cattle sitting in front of a church with a steeple.,A herd of cows standing in front of a white building.,0.28291332071489855,0.7084330320358276,0.8283745
+coco/val2017/000000308799.jpg,A doorway into a clean wood floored kitchen.,A kitchen with a stove top oven next to a sink.,0.02568481047180467,0.3745219111442566,0.66372406
+coco/val2017/000000205514.jpg,The large living room has been decorated in modern furnishings.,A living room filled with furniture and a flat screen TV.,0.05190794196013298,0.4987233281135559,0.6655979
+coco/val2017/000000537812.jpg,A tiled bathroom with toilet and open shower,A bathroom with a toilet and a red bucket.,0.09452229951416066,0.4819156229496002,0.6156288
+coco/val2017/000000284623.jpg,A black cat sits in a bathroom sink.,A black cat sitting on top of a bathroom sink.,0.21639967162058674,0.8699219822883606,0.95529115
+coco/val2017/000000136355.jpg,A kitchen with a bright window and house plants,A table with a vase of flowers and chairs.,0.07517081801936397,0.4184707999229431,0.37789482
+coco/val2017/000000001761.jpg,Two planes flying in the sky over a bridge.,Two airplanes flying over a bridge and a city.,0.07517081801936397,0.7453567981719971,0.9054698
+coco/val2017/000000267351.jpg,A large clock tower is yellow and white.,A clock tower with a red dome and a cross on top.,0.05678170484701192,0.5337756872177124,0.5793636
+coco/val2017/000000357567.jpg,A small bathroom with a white toilet next to a shower curtain covered bath tub.,"A bathroom with a shower curtain, toilet and sink.",0.09763637281319279,0.5929243564605713,0.81534827
+coco/val2017/000000221502.jpg,A park bench surrounded by floral arrangements on either side.,A wooden bench sitting on a cement slab.,0.029313448501677924,0.34674254059791565,0.5580119
+coco/val2017/000000211825.jpg,A man blowing out candles on a cake.,A man blowing out candles on a chocolate cake.,0.7506238537503395,0.9460396766662598,0.9718847
+coco/val2017/000000382734.jpg,A bathroom being renovated with pipes in the wall,A bathroom with a shower and a toilet.,0.0695635988471652,0.40528830885887146,0.5352169
+coco/val2017/000000456394.jpg,"BLUE MOTORCYCLE ON DISPLAY, SURROUNDED BY OTHER VEHICLES",A blue motorcycle on display in a museum.,0.0,0.06070147827267647,0.8394046
+coco/val2017/000000553776.jpg,A man rides a large motorcycle on a freeway.,A man riding on the back of a yellow motorcycle.,0.06772635600430824,0.6018646359443665,0.598856
+coco/val2017/000000332455.jpg,a close up of a toilet with a pink seat and lid,A toilet with a pink seat and a toilet brush.,0.4604061366599648,0.5891709327697754,0.85718405
+coco/val2017/000000465179.jpg,a close up of a person brushing her teeth in the bathroom,A woman brushing her teeth in a bathroom.,0.22172045047934608,0.6670530438423157,0.94537544
+coco/val2017/000000571718.jpg,A man standing in front of a fruit stand containing several bunches of bananas.,A man standing in front of a pile of bananas.,0.4739878501170792,0.7768471837043762,0.85563034
+coco/val2017/000000527220.jpg,A red car next to a gas station sign and parked blue and silver motorcycles.,"A red car, a Hess gas station sign, and a blue motorcycle.",0.06048557568630619,0.6321878433227539,0.92154324
+coco/val2017/000000554002.jpg,A black dog standing between people in line,A dog standing next to a group of people.,0.0699543285114998,0.6632236838340759,0.7714212
+coco/val2017/000000122217.jpg,Two people skateboarding down a roadway in a downhill descent.,Two people on skateboards on a curved road.,0.061389660515260625,0.6679115891456604,0.85931325
+coco/val2017/000000168337.jpg,Two people outside of a stone building near a red fire hydrant.,A woman standing on a sidewalk next to a red fire hydrant.,0.22416933501922293,0.6979162096977234,0.6125277
+coco/val2017/000000023272.jpg,A Calico cat laying on the hood of a Mercedes.,A cat sitting on top of a car with a mercedes logo.,0.06003934299439418,0.5857028961181641,0.7770127
+coco/val2017/000000368940.jpg,a bathroom with a mirror and a sink,A bathroom with a sink and a mirror.,0.2334598321466113,0.943915069103241,0.98058593
+coco/val2017/000000481573.jpg,Boy standing on a skate board as seen from under the board.,A man standing next to a large metal object.,0.021927068045387584,0.3603731691837311,0.25611037
+coco/val2017/000000542089.jpg,a bathroom with a bath tub a sink and a mirror,"A bathroom with a sink, mirror and a bath tub.",0.17112219711771476,0.8575930595397949,0.9715874
+coco/val2017/000000165681.jpg,This is an image of a row of scooters,A row of motorcycles parked next to each other.,0.06321087140417253,0.38206544518470764,0.7511701
+coco/val2017/000000357737.jpg,A picture of a person standing by a bicycle.,A man standing next to a motorcycle with a bike on the back.,0.026480261910431388,0.5907541513442993,0.63651246
+coco/val2017/000000067213.jpg,A lot of people that are looking at a pool.,A dog is jumping into a pool of water.,0.03030492851898195,0.29691457748413086,0.26981837
+coco/val2017/000000222825.jpg,A kitchen with a stove top oven next to a white fridge.,"A kitchen with a stove, refrigerator, and cabinets.",0.20969025558524573,0.5986649990081787,0.84740543
+coco/val2017/000000170893.jpg,A dog is standing next to a toilet playing with tissue,A dog standing in front of a toilet bowl.,0.07568754063069366,0.6262723803520203,0.87185675
+coco/val2017/000000107087.jpg,A black cat sits in a car and looks out.,A black cat sitting on the back of a car seat.,0.1459819203086565,0.663284420967102,0.8255122
+coco/val2017/000000366884.jpg,A man sitting at a computer desk in front of a monitor.,A dog laying on a bed in a room.,0.026075825330723723,0.5418242812156677,0.011646904
+coco/val2017/000000555597.jpg,Many cars parked on a city street with tall buildings in the background.,A black and white photo of a city street.,0.040529571079923256,0.37339356541633606,0.5514066
+coco/val2017/000000139099.jpg,A street scene with a person on a motorcycle.,A man riding a scooter past a man selling watermelon.,0.03087179980863256,0.39468392729759216,0.38922065
+coco/val2017/000000144114.jpg,A small glider flying through the sky with a pilot.,A small airplane flying through a cloudy sky.,0.08294971879177145,0.7044938206672668,0.70146716
+coco/val2017/000000255917.jpg,A cluster of traffic driving towards a capital building.,A street filled with lots of traffic under a blue sign.,0.061729293904138435,0.43941646814346313,0.5931457
+coco/val2017/000000030828.jpg,"A person with an orange blanket covering them, sleeping on a wooden park bench.",A person wrapped in a sleeping bag on a bench.,0.059747567706961435,0.6150417923927307,0.7905263
+coco/val2017/000000163562.jpg,The young man is holding a clear Frisbee.,A man holding a red frisbee while standing on a hillside.,0.057445580856132834,0.6296203136444092,0.6658513
+coco/val2017/000000021839.jpg,a person walking across the street with a traffic light above,A man walking across a street at night.,0.058216099696394866,0.6218277812004089,0.7315365
+coco/val2017/000000251065.jpg,A black toilet in a tiled public bathroom stall.,A black and white toilet in a small tiled room.,0.16934189459315158,0.6566969156265259,0.8476087
+coco/val2017/000000522751.jpg,A view of a stoplight by a street.,A traffic light with a yellow light on it.,0.030601688609851067,0.4092589318752289,0.6549492
+coco/val2017/000000213816.jpg,a close up of a public transit train with its doors open,A train with its doors open at a train station.,0.336607735780637,0.5926841497421265,0.8440515
+coco/val2017/000000435003.jpg,A laptop computer sitting on a desk next to a desktop monitor.,A laptop computer sitting on top of a desk next to a monitor.,0.5923033072023249,0.8587140440940857,0.92935854
+coco/val2017/000000307145.jpg,A kitchen with old wooden cabinets and a stove top oven.,A kitchen with a large island and a stove top oven.,0.46924700641056,0.7785388231277466,0.668393
+coco/val2017/000000281032.jpg,An elderly person in a kitchen cooking food.,A man cooking food in a kitchen next to a wall.,0.12475235543331888,0.73013836145401,0.7186224
+coco/val2017/000000404484.jpg,A woman bending over in a living room to pet her dog.,A man bending over next to a brown dog.,0.05960837242186463,0.6229999661445618,0.5849809
+coco/val2017/000000227044.jpg,A black and white cat standing in a white bathroom sink.,A cat standing in a bathroom sink next to a toilet.,0.2596535889340338,0.6657915115356445,0.87813604
+coco/val2017/000000002532.jpg,A person standing on top of a ski covered slope.,A man riding skis down a snow covered slope.,0.06726580344082496,0.6540019512176514,0.7191293
+coco/val2017/000000156071.jpg,A group of people standing around at a rodeo.,A man riding a bull in a rodeo ring.,0.030601688609851067,0.6124785542488098,0.51530576
+coco/val2017/000000127182.jpg,A kitchen filled with metal appliances and a window.,"A kitchen with a stove, microwave, dishwasher and sink.",0.07948346282299562,0.46629175543785095,0.6521811
+coco/val2017/000000491090.jpg,A man sitting on one of a group of motorcycles.,A man sitting on a motorcycle in front of a motorcycle shop.,0.2521193618434983,0.6924993991851807,0.6089622
+coco/val2017/000000356387.jpg,A row of parked motorcycles sitting in front of a tall building.,A street scene with people walking and parked motorcycles.,0.021927068045387584,0.39990365505218506,0.6405909
+coco/val2017/000000130826.jpg,Two men sitting next to each other on a wooden bench.,A man and woman sitting on a bench.,0.058216099696394866,0.646090030670166,0.62129194
+coco/val2017/000000472623.jpg,A young man riding a bike on top of a beach.,A man riding a bike on a rocky surface.,0.38875142041440197,0.7602888345718384,0.6689091
+coco/val2017/000000481404.jpg,A church with a stain glassed window of the virgin mary.,A large cathedral with a black and white tiled floor.,0.05702871379988104,0.34964483976364136,0.5514569
+coco/val2017/000000194875.jpg,Here are motorcyclists parked outside a Polish gathering spot for women,A group of people sitting around a bar with motorcycles parked outside.,0.02383765064930276,0.2883380353450775,0.6371699
+coco/val2017/000000025096.jpg,A young boy cuts into a cake shaped like a skateboard.,A young boy cutting into a car shaped cake.,0.15227598126055134,0.7814030051231384,0.8107079
+coco/val2017/000000485895.jpg,The giraffe is standing in the shade of the tree.,A giraffe standing next to a tree in a grassy field.,0.028424915360075714,0.7096231579780579,0.82563365
+coco/val2017/000000243495.jpg,a toilet with writing under the lid ,A white toilet in a bathroom next to a toilet paper dispenser.,0.04774753205784679,0.3860650062561035,0.73609334
+coco/val2017/000000384850.jpg,A bathroom with a shower curtain that has four palm trees on it and a white tile floor.,A bathroom with a shower curtain and a toilet.,0.24303324868167356,0.567501962184906,0.7585336
+coco/val2017/000000053505.jpg,A toilet sitting underneath a medicine cabinet in a bathroom.,"A bathroom with a toilet, sink and mirror.",0.026487690798830184,0.3837161362171173,0.6182631
+coco/val2017/000000146667.jpg,A woman digging through the storage compartment on her moped.,A woman is cleaning a scooter with a cloth.,0.05656357298255072,0.5165247917175293,0.71461934
+coco/val2017/000000531707.jpg,A group of people sitting on a wooden bench next to a  field.,Four people sitting on a bench near the water.,0.20235553926673694,0.6112315654754639,0.65817976
+coco/val2017/000000031817.jpg,A man riding a motorcycle while eating food.,A man in a suit and helmet on a motorcycle.,0.06302647598688789,0.5668401122093201,0.5183426
+coco/val2017/000000536343.jpg,A bath tub in a small bathroom with towels hanging over it.,A bathroom tub with a hole in the wall above it.,0.03207835283578073,0.5744751691818237,0.72703123
+coco/val2017/000000029187.jpg,A man riding a horse drawn carriage on a race track.,A man in a cart being pulled by a horse.,0.06128134109992247,0.6422974467277527,0.71849203
+coco/val2017/000000402346.jpg,Tomatoes sit in a black bowl next to a flower.,A bowl of tomatoes and a flower on a table.,0.03087179980863256,0.5333038568496704,0.8567986
+coco/val2017/000000458768.jpg,A brightly lit kitchen with lots of natural light.,A kitchen with a stove top oven next to a kitchen island.,0.05284133043873052,0.414029061794281,0.5623627
+coco/val2017/000000018737.jpg,A motorcycle parked near a fence by a beach.,A red motorcycle parked on a road near the beach.,0.07495153367715524,0.772863507270813,0.791687
+coco/val2017/000000293044.jpg,A plastic dish with the food sectioned off.,A plastic container filled with sandwiches and fruit.,0.07882588442342651,0.5103787183761597,0.5958805
+coco/val2017/000000045229.jpg,A kitchen filled with a wooden cabinet and a large window.,A kitchen with a large window and wooden cabinets.,0.09111276309764545,0.8434991240501404,0.94336987
+coco/val2017/000000212453.jpg,A white toilet sitting in a corner of a room.,A white toilet sitting in a bathroom next to a wall.,0.47987820666906633,0.7631222605705261,0.82083225
+coco/val2017/000000570782.jpg,Three computers without screens sit on a desk.,A desk with two laptops and a monitor on it.,0.027895820162122397,0.4603685140609741,0.7164272
+coco/val2017/000000069213.jpg,Two men wearing suits and hats are walking together.,Two men wearing suits and hats standing next to each other.,0.4617366309441026,0.7253526449203491,0.81373274
+coco/val2017/000000520324.jpg,Someone is driving a cart near a single engine airplane.,A small plane is parked on the runway.,0.0222734042410851,0.4318679869174957,0.5615345
+coco/val2017/000000455624.jpg,Person driving a plated motorcycle on a track with people watching.,A man riding a motorcycle down a road.,0.02586902750680382,0.5054287910461426,0.63477606
+coco/val2017/000000408112.jpg,A small propeller plane sitting on top of an airport tarmac.,A group of planes sitting on top of a runway.,0.2513293635022765,0.6720901727676392,0.50392026
+coco/val2017/000000297578.jpg,A man walking down a street smoking a cigarette.,A man in a suit looking at his watch.,0.0699543285114998,0.5067704916000366,0.2196047
+coco/val2017/000000286907.jpg,A bathroom scene with focus on the toilet.,A bathroom with a toilet and a bucket.,0.07882588442342651,0.5140484571456909,0.6077957
+coco/val2017/000000553094.jpg,a fighter het flying up in the air ,A jet flying through a fog filled sky.,0.03401086821506398,0.3743513226509094,0.47414994
+coco/val2017/000000414510.jpg,A few people sitting by a busy street,A woman sitting on the ground next to a bike.,0.03087179980863256,0.6197504997253418,0.4467277
+coco/val2017/000000070774.jpg,Small motorcycle with several bicycles tied to the back of it. ,A motorcycle parked in front of a building with a bike on the back of it.,0.16943571815930883,0.542285144329071,0.7301907
+coco/val2017/000000015272.jpg,A red light is a wonderful contrast to the pink leaves on trees,A traffic light hanging from a tree with white flowers.,0.02287039180347337,0.28656092286109924,0.69378746
+coco/val2017/000000152120.jpg,A man in a jean jacket riding a motorcycle on a road.,A man riding on the back of a motorcycle down a road.,0.08886817068633099,0.6372881531715393,0.7050574
+coco/val2017/000000441247.jpg,A woman standing in a kitchen next to a table.,A woman standing in a kitchen next to a refrigerator.,0.8801117367933934,0.8686029314994812,0.79820836
+coco/val2017/000000323263.jpg,A group of people standing around a blue building.,A group of people standing around a blue building.,1.0,1.0,1.0
+coco/val2017/000000462614.jpg,A bathroom filled with fixtures and a shower.,"A bathroom with a toilet, sink, shower and mirror.",0.07948346282299562,0.6376219391822815,0.70442384
+coco/val2017/000000092124.jpg,A bathroom with a white toilet and a sink net to a shower.,"A bathroom with a shower curtain, sink and toilet.",0.2117924180472059,0.6090458035469055,0.7253281
+coco/val2017/000000380706.jpg,A man riding a motorcycle down a city street.,A person on a bike on a city street.,0.16418110161559327,0.8086299896240234,0.6219643
+coco/val2017/000000474786.jpg,A bathroom with a sink and television inside of the mirror.,A bathroom with a large white tub next to a window.,0.23462350320528,0.6044211387634277,0.4763164
+coco/val2017/000000097022.jpg,A kitchen filled with wooden cabinets and a microwave oven.,"A kitchen with a stove, dishwasher, microwave and sink.",0.0744418484820767,0.5868919491767883,0.7533146
+coco/val2017/000000208901.jpg,A large passenger jet flying through a gray sky.,A large jetliner flying through a cloudy blue sky.,0.1901696869733609,0.8478277921676636,0.82174647
+coco/val2017/000000074209.jpg,A counter in a kitchen line with black metal stools.,A kitchen with a bar and four stools.,0.03330650788555418,0.4371958076953888,0.7972458
+coco/val2017/000000472375.jpg,A small black and brown dog sitting next to a motorcycle.,A dog wearing a helmet sitting on a floor.,0.02914023204026587,0.534899115562439,0.6264313
+coco/val2017/000000224724.jpg,There is a woman standing on a city street.,A woman walking down a street holding an umbrella.,0.030601688609851067,0.5823125243186951,0.46328875
+coco/val2017/000000084752.jpg,a jet on three pillars in front of a building,A fighter jet sitting on top of three pillars.,0.03256476497255973,0.5919188857078552,0.80377907
+coco/val2017/000000405432.jpg,A white table topped with cakes and nuts.,A table topped with bags of nuts and a box.,0.14619963489696408,0.6511427164077759,0.62520194
+coco/val2017/000000293324.jpg,A group of large passenger jets parked in front of an airport.,A group of airplanes parked in front of an airport.,0.5387551338654779,0.886727511882782,0.9160863
+coco/val2017/000000008211.jpg,"Two men talking to each other on a street corner
+",Two men standing next to each other on a street.,0.4518010018049224,0.7145893573760986,0.807763
+coco/val2017/000000034873.jpg,A kitchen with a counter and a table with chairs.,A kitchen with a wooden counter and chairs.,0.33277145517762347,0.8072155714035034,0.9043219
+coco/val2017/000000580294.jpg,Person cooking an eggs on a black pot on a stove. ,A woman is cooking food on a stove.,0.12191900917695427,0.4654155671596527,0.6532811
+coco/val2017/000000507893.jpg,The bathroom is white and looks very clean.,A bathroom with a white tub next to a window.,0.027895820162122397,0.48196685314178467,0.6754683
+coco/val2017/000000101762.jpg,A cat standing next to a bike parked against a wall.,A cat is walking behind a bicycle tire.,0.05417618525543734,0.6343435049057007,0.7587899
+coco/val2017/000000226984.jpg,A kitchen filled with appliances and wooden cabinets.,A kitchen with a stove top oven next to a refrigerator.,0.057445580856132834,0.4847017228603363,0.72683525
+coco/val2017/000000052017.jpg,A yellow and blue plant flying in a gray sky.,A small yellow airplane flying through a cloudy sky.,0.03443304668268052,0.6169453263282776,0.5610299
+coco/val2017/000000489339.jpg,A woman is wearing a wetsuit while holding a surfboard.,A woman holding a surfboard while walking on a beach.,0.08913289712923907,0.6547499299049377,0.84846926
+coco/val2017/000000205401.jpg,A plane floating on top of a lake surrounded by mountains.,A large airplane sitting on top of a lake.,0.25271148634948987,0.7394717335700989,0.8526261
+coco/val2017/000000419974.jpg,a man standing next to a kitchen counter preparing food.,A man preparing food in a kitchen with a dog watching.,0.06527078148671275,0.6043519377708435,0.72622025
+coco/val2017/000000262895.jpg,"A man wearing a tie, jacket and white shirt.",An older man with white hair wearing a suit and tie.,0.06527078148671275,0.6215784549713135,0.77735734
+coco/val2017/000000138639.jpg,A group of men standing on the side of a street.,A man riding a bike down a street next to tall buildings.,0.02383765064930276,0.5987635254859924,0.21668334
+coco/val2017/000000349184.jpg,A woman sitting on top of a wooden bench near a park.,A woman sitting on a wooden bench in a park.,0.34666677727296225,0.8770240545272827,0.9601939
+coco/val2017/000000037670.jpg,A man holding holding a giant remote control.,A person holding a remote control for a projector.,0.07517081801936397,0.5919792652130127,0.72463864
+coco/val2017/000000338219.jpg,A couple of motorcycles parked next to each other.,A man standing next to a parked motorcycle.,0.07475095167059852,0.4762735068798065,0.625162
+coco/val2017/000000206487.jpg,A man riding a motorcycle with a woman on back of it.,A motorcycle rider is stopped at a traffic light.,0.024266289757869118,0.42566365003585815,0.42814896
+coco/val2017/000000011149.jpg,A man standing next to a bikes and a motorcycle.,A couple of bikes parked next to each other.,0.06726580344082496,0.371288001537323,0.6110389
+coco/val2017/000000379453.jpg,An Air Force jet flying in a deep blue sky.,A large jet flying through a blue sky.,0.08294971879177145,0.6745245456695557,0.8379728
+coco/val2017/000000579902.jpg,A person riding a motorcycle down a street.,A man riding a motorcycle down a street next to cars.,0.3672056269893592,0.8234878778457642,0.79030883
+coco/val2017/000000485424.jpg,an image of a junky garage with trash everywhere,A kitchen filled with lots of clutter and a stove top oven.,0.026380696981716002,0.30242353677749634,0.45645854
+coco/val2017/000000033854.jpg,"A bus, old cabin cars, and motor cycles with people ",A group of motorcycles parked in a parking lot.,0.02302676613984314,0.23245792090892792,0.42838952
+coco/val2017/000000044590.jpg,A group of motorcycles parked on the side of a road.,A group of bikers standing around a road with their motorcycles.,0.12475235543331888,0.6957555413246155,0.7666905
+coco/val2017/000000167898.jpg,"A kitchen with a toilet, sink and a bathtub.","A bathroom with a sink, toilet and shower.",0.07475095167059852,0.7822459936141968,0.63005745
+coco/val2017/000000167122.jpg,an image of a night scene with a cat on top of a car,A car parked in a parking lot next to a tall fence.,0.022330777884899577,0.34822583198547363,0.39882636
+coco/val2017/000000365766.jpg,"A kitchen area with a stove, sink and microwave.","A kitchen with a stove, microwave, dishwasher and sink.",0.1901696869733609,0.8109583854675293,0.9066126
+coco/val2017/000000206411.jpg,A hand spraying water into a white toilet bowl.,A person is spraying water into a toilet.,0.32260135189272865,0.6748971343040466,0.8940662
+coco/val2017/000000500464.jpg,Bathroom with a white tiled floor and sink.,"A bathroom with a sink, toilet and mirror.",0.07882588442342651,0.504881739616394,0.76764196
+coco/val2017/000000467511.jpg,A biker chic in high heel boots is talking to a man at a gas pump.,A woman sitting on a motorcycle at a gas pump.,0.15954797701544196,0.4645015597343445,0.5166137
+coco/val2017/000000311295.jpg,A field with various wildlife and trees in the background.,A herd of zebra standing on top of a dry grass field.,0.020044994979069072,0.36510273814201355,0.47784197
+coco/val2017/000000170099.jpg,a person wearing a suit and tie next to a couch,A man in a dress shirt and tie talking.,0.05601504733508756,0.5990961790084839,0.44906497
+coco/val2017/000000033638.jpg,A woman observing something on a kitchen stove.,A woman standing in front of a stove top oven.,0.06302647598688789,0.6339698433876038,0.82216847
+coco/val2017/000000403565.jpg,A man wearing a bike helmet standing next to a bicycle.,A man kneeling down next to a bike on a road.,0.17063407610369333,0.6992440819740295,0.69176924
+coco/val2017/000000383443.jpg,"A bathroom with a tub, sinks, lights and a television.",A bathroom with a large tub and a flat screen TV.,0.2790159393585827,0.7141938209533691,0.8597497
+coco/val2017/000000187745.jpg,a small yellow Cessna plane flying on a clear day,A small airplane flying through a blue sky.,0.029313448501677924,0.5766107439994812,0.7563799
+coco/val2017/000000365207.jpg,rear view mirror reflection showing a dog in the back seat,A car mirror reflecting a dog on top of a car.,0.057445580856132834,0.47546547651290894,0.79317003
+coco/val2017/000000343934.jpg,A blue motorcycle is parked in a corner covered in graffiti.,A blue motorcycle parked in front of a building covered in graffiti.,0.20829749003374995,0.7670204639434814,0.9564996
+coco/val2017/000000290619.jpg,Banana and plastic drink container sitting on a table.,A banana sitting on top of a counter next to a blue lid.,0.048970314286134506,0.40060609579086304,0.696768
+coco/val2017/000000209613.jpg,Three look alike dogs are herding sheep into a pile.,A herd of sheep walking across a dirt field.,0.027383594129005207,0.3822738230228424,0.59685695
+coco/val2017/000000459272.jpg,A woman holding a smart phone next to a group of people.,A woman is looking at her cell phone.,0.04320149704326897,0.5783352255821228,0.55818677
+coco/val2017/000000386457.jpg,Cat wedged between two large oak doors trying to get out.,A cat is peeking out from a cabinet.,0.0,0.25181296467781067,0.57497156
+coco/val2017/000000245513.jpg,A giraffe standing in a field next to a fence.,A giraffe standing on top of a dry grass field.,0.13826707794313167,0.7680654525756836,0.78165424
+coco/val2017/000000077396.jpg,These two cats are playing in a room that has a large TV and a laptop computer.,Two cats are watching a television program on a small TV.,0.035776957911562185,0.5465958118438721,0.7732005
+coco/val2017/000000477441.jpg,A large passenger jet sitting on top of an airport tarmac.,A large jetliner sitting on top of an airport tarmac.,0.6398166741645538,0.9376344084739685,0.92027247
+coco/val2017/000000402433.jpg,A pizza sitting on top of a pan in the oven.,A pizza sitting on top of a pizza pan next to a pizza cutter.,0.44710186192584195,0.7131876349449158,0.7391573
+coco/val2017/000000103585.jpg,A bathroom with two sinks sitting under mirrors.,A bathroom with a long counter and a toilet.,0.1444977144915524,0.5603829026222229,0.4402477
+coco/val2017/000000255401.jpg,A bathroom filled with toilets and a tub next to a sink.,"A bathroom with a toilet, sink and a bidet.",0.0708867005978134,0.6471604704856873,0.563673
+coco/val2017/000000044279.jpg,Two men work in the kitchen of a restaurant.,Two men in a kitchen preparing food in a restaurant.,0.08913289712923907,0.7617813348770142,0.89405453
+coco/val2017/000000410878.jpg,A parked motorcycle sitting on a dirty road.,A motorcycle parked on a gravel road near a forest.,0.07161190261650083,0.7640281319618225,0.7773099
+coco/val2017/000000459467.jpg,A small wheeled airplane on an open runway.,A small airplane sitting on top of a runway.,0.07948346282299562,0.715552031993866,0.80706257
+coco/val2017/000000507081.jpg,"A kitchen with its light's off, with light coming from an open door.",A kitchen with a door leading to a balcony.,0.09264910070493426,0.47152453660964966,0.72605413
+coco/val2017/000000262440.jpg,"A bathroom with a toilet, sink, bath tub, and a small cabinet.",A bathroom with a large white tub next to a toilet.,0.22652581507881553,0.5953332185745239,0.6494421
+coco/val2017/000000398905.jpg,A person is sitting at a keyboard near a microphone.,A man with a beard and curly hair playing a keyboard.,0.028424915360075714,0.36330512166023254,0.6456176
+coco/val2017/000000173302.jpg,A restaurant with red stools next to a bar  and a blue table.,A restaurant with a bar and tables and chairs.,0.15581659331851921,0.5011223554611206,0.81665516
+coco/val2017/000000164637.jpg,A picture of pink bathroom sink and a mirror.,"A bathroom with a sink, mirror and toilet.",0.03569344013073345,0.512536883354187,0.66422874
+coco/val2017/000000185802.jpg,A banana in a little chair near a window.,A banana sitting on top of a yellow chair.,0.0699543285114998,0.5900541543960571,0.862973
+coco/val2017/000000017436.jpg,A man sitting on a bench with a tall building behind him.,A man sitting on a bench in front of a church.,0.43817713423777205,0.6910094022750854,0.8296525
+coco/val2017/000000078748.jpg,A group of motorcycles on display for a crowd.,A group of motorcycles parked next to each other.,0.2984745896009823,0.5169464945793152,0.7530296
+coco/val2017/000000382696.jpg,A kitchen under construction with a trashcan and stove.,A kitchen with a refrigerator and a sink.,0.09399434553122407,0.6318208575248718,0.504313
+coco/val2017/000000365387.jpg,View of a public men's' room with a  cot on the side.,A bathroom with a toilet and a sink.,0.04781031568177268,0.2876430153846741,0.30058432
+coco/val2017/000000232649.jpg,A bathroom has the blue toilet seat off.,A woman is taking a picture of a bathroom.,0.02573285025273419,0.3527381718158722,0.4783477
+coco/val2017/000000490936.jpg,A row of parked motorcycles on the side of a street.,A row of motorcycles parked next to each other.,0.1314659489156907,0.6303333640098572,0.8697604
+coco/val2017/000000312340.jpg,A black and white cat sitting on top of leaves.,A black and white cat sitting in a pile of leaves.,0.5193071778680676,0.8889665603637695,0.9178728
+coco/val2017/000000232563.jpg,A man standing in the street with a umbrella.,A man walking down a street holding a zebra print umbrella.,0.06527078148671275,0.6613519191741943,0.7112747
+coco/val2017/000000389812.jpg,A smiling man holds a bunch of freshly picked bananas,A man holding a bunch of bananas in his hand.,0.15301767524945895,0.6807387471199036,0.8812529
+coco/val2017/000000144003.jpg,A group of people watching a woman cutting a cake.,A group of people standing around a table with a cake.,0.28997844147152074,0.6768320798873901,0.6757402
+coco/val2017/000000376310.jpg,A small bathroom with a mirror and sinks.,A bathroom with purple walls and a round mirror.,0.07948346282299562,0.6339052319526672,0.69489914
+coco/val2017/000000452122.jpg,An airplane flying in the air during the day.,A large passenger jet flying through a cloudy sky.,0.02573285025273419,0.5535594820976257,0.7479551
+coco/val2017/000000245448.jpg,A man standing with his motorcycle outside of a repair shop.,A group of men standing around a motorcycle.,0.027798079124327517,0.5926523804664612,0.5885738
+coco/val2017/000000032941.jpg,A street that has all the traffic stopped at a traffic light.,A street sign sitting on the side of a road.,0.055449650454634784,0.4100736677646637,0.40065703
+coco/val2017/000000149406.jpg,An old motorcycle rests near a rundown building. ,A red motorcycle parked in front of a green door.,0.027895820162122397,0.5135465860366821,0.6641743
+coco/val2017/000000002149.jpg,A large white bowl of many green apples. ,A bowl filled with lots of green apples.,0.089563496460826,0.6804308295249939,0.9415293
+coco/val2017/000000531134.jpg,A traffic light with a sad face on the red light. ,A traffic light sitting on the side of a road.,0.15322688266898488,0.5298616290092468,0.63704026
+coco/val2017/000000263796.jpg,A red toilet in a very small bathroom.,A red toilet sitting in a room with lots of wires.,0.1459819203086565,0.5912573933601379,0.77702487
+coco/val2017/000000445658.jpg,A family kitchen cluttered with items on the counters,"A kitchen with a stove, oven, dishwasher and a mixer.",0.03087179980863256,0.3063259720802307,0.60605896
+coco/val2017/000000292997.jpg,A snowy ladnscape with a car crashed into a pole,A car that is sitting in the snow.,0.026487690798830184,0.35472577810287476,0.71802366
+coco/val2017/000000383606.jpg,A blue corner sink with a man reflected in the above mirrors.,A woman taking a picture of a bathroom sink.,0.021927068045387584,0.40778622031211853,0.5273368
+coco/val2017/000000133087.jpg,Night time view of empty streets in commercial district.,A street filled with traffic lights and buildings.,0.0,0.3030380308628082,0.66063964
+coco/val2017/000000455716.jpg,A row of motorcycles parked together on a grass yard area with a house in the background.,A row of motorcycles parked next to each other.,0.1834891231707335,0.5772128701210022,0.8278632
+coco/val2017/000000002592.jpg,Decorated coffee cup and knife sitting on a patterned surface.,A white mug sitting next to a knife on a table.,0.061729293904138435,0.4665626287460327,0.8486047
+coco/val2017/000000336309.jpg,a large passenger airplane flying through a cloudy sky,A large jetliner flying through a cloudy blue sky.,0.3155984539112945,0.8426204323768616,0.8838215
+coco/val2017/000000157124.jpg,Various sink cabinets lined up in a warehouse,A kitchen sink sitting inside of a kitchen.,0.03401086821506398,0.4488900601863861,0.7238667
+coco/val2017/000000481567.jpg,A man stands beside his black and red motorcycle near a park.,A man sitting on a red motorcycle on a road.,0.06972424414589135,0.6383748650550842,0.58837324
+coco/val2017/000000530099.jpg,A orange calico cat on top of a vehicle.,A cat is sitting on top of a car at night.,0.2596535889340338,0.6030123829841614,0.68540215
+coco/val2017/000000272136.jpg,A large propeller plane mounted to the ceiling of a building.,A large airplane sitting inside of a hangar.,0.06923099996666053,0.580856442451477,0.7251408
+coco/val2017/000000155451.jpg,a green traffic light a street  some buildings and some other lights,A traffic light sitting over a street at night.,0.06405336468947535,0.32990625500679016,0.70839417
+coco/val2017/000000005503.jpg,a man standing in front of a toilet taking a piss,A toilet with a person sitting on the floor in front of it.,0.11057078116370667,0.5351371169090271,0.61124194
+coco/val2017/000000550714.jpg,"The little  girl is eating a banana.
+",A young girl eating a banana while wearing a pink top.,0.057445580856132834,0.6117135882377625,0.8890308
+coco/val2017/000000523229.jpg,A dirty public bathroom with a handicap sign located above the toilet. ,A toilet with a sign above it for disabled people.,0.05863086695855483,0.6140702366828918,0.7825536
+coco/val2017/000000564127.jpg,Toilet with a black lid and rolls of toilet tissue in a bathroom,A black toilet sitting in a bathroom next to a toilet brush.,0.11580505418051565,0.5190813541412354,0.73288095
+coco/val2017/000000449996.jpg,Two planes in runway and another plane in the sky.,A group of airplanes flying over a city.,0.0,0.3743308484554291,0.5900813
+coco/val2017/000000534827.jpg,a group of young men are riding their motocycles down the street,A group of people riding motorcycles down a street.,0.056952389785504105,0.6959607601165771,0.7512288
+coco/val2017/000000480021.jpg,A painting of a man and woman riding together on a motorcycle.,A man riding a motorcycle next to a woman.,0.027571828375202816,0.6477912068367004,0.76164377
+coco/val2017/000000184762.jpg,A gold clock with ornate iron hands keeps time on a large clock with roman numerals.,A clock with roman numerals and a fancy face.,0.07542903790087015,0.5347009897232056,0.7859517
+coco/val2017/000000149222.jpg,The computer monitor has a framed picture near it.,A computer monitor sitting on top of a desk.,0.0699543285114998,0.5213931202888489,0.78431475
+coco/val2017/000000037751.jpg,A person on dirt bike riding down a hill with mountains in background.,A person riding a motorcycle down a dirt road.,0.06343220673417213,0.6664403080940247,0.7963481
+coco/val2017/000000508370.jpg,A bicycle parked on top of a baby dolls head.,A man standing next to a bike and a baby doll.,0.057445580856132834,0.5367133021354675,0.6842855
+coco/val2017/000000565045.jpg,Blue bathroom with two white towels hanging by the shower.,A bathroom with a walk in shower next to a bath tub.,0.04774753205784679,0.5251069664955139,0.7061504
+coco/val2017/000000300659.jpg,A formation of airplanes flying through a  blue sky.,A group of airplanes flying through a blue sky.,0.7506238537503395,0.7364122867584229,0.9565727
+coco/val2017/000000412531.jpg,a single parking meter sitting next to some plants and a tree ,A parking meter sitting next to a fence.,0.3281829856080946,0.6833863854408264,0.7395109
+coco/val2017/000000363840.jpg,Several different pieces of electronic equipment and computers on a desk.,A desk with three laptops and two desktops on it.,0.025241181889490292,0.38224732875823975,0.66785675
+coco/val2017/000000241319.jpg,A bathroom sink with two toothbrushes facing each other.,A bathroom sink with toothbrushes and glasses on it.,0.3155984539112945,0.6687489151954651,0.828486
+coco/val2017/000000502599.jpg,A group of airplanes floating over the ocean.,A group of airplanes hanging from the ceiling of a building.,0.24808415001701817,0.707731306552887,0.57639503
+coco/val2017/000000052996.jpg,A group of women in military outfits helping other women in a kitchen.,A group of people standing around a kitchen preparing food.,0.1024307706606912,0.5886623859405518,0.59525454
+coco/val2017/000000186980.jpg,A wooden table with two chairs next to a sink.,A wooden table and chairs in a kitchen.,0.14607831074908537,0.6574240922927856,0.79314244
+coco/val2017/000000480944.jpg,A traffic light sitting on the side of a road.,A traffic light sitting on the side of a road.,1.0,1.0,0.9999999
+coco/val2017/000000199771.jpg,A group of people in chef outfits at a kitchen counter.,A group of people preparing food in a kitchen.,0.2644967217413845,0.7220088839530945,0.79981697
+coco/val2017/000000529568.jpg,A big fancy glass chandelier hanging in a small kitchen.,A kitchen with a chandelier and a flat screen TV.,0.03087179980863256,0.4815575182437897,0.716666
+coco/val2017/000000329219.jpg,A man standing next to a dog on the ground.,A man standing at a counter in a kitchen with a dog.,0.11373546463821492,0.6986493468284607,0.57166123
+coco/val2017/000000433204.jpg,a person riding a motorcycle on a city road with a sky background,A man riding a motorcycle down a street.,0.09495061981830177,0.6143898963928223,0.7034153
+coco/val2017/000000244833.jpg,A yellow and a green motorcycle in the back of an auditorium.,A row of motorcycles parked next to each other.,0.021927068045387584,0.28512850403785706,0.46959332
+coco/val2017/000000361586.jpg,several people are purchasing tickets at a bus station,A group of people standing around a ticket counter.,0.030601688609851067,0.45699793100357056,0.6719976
+coco/val2017/000000182611.jpg,A man making his plate with a table full of food. ,A man standing in a kitchen preparing food.,0.058216099696394866,0.5158043503761292,0.6859385
+coco/val2017/000000189828.jpg,Grey plane taking off above some green vegetation.,A large jetliner flying over a lush green forest.,0.02573285025273419,0.6159875988960266,0.7789022
+coco/val2017/000000098716.jpg,Elderly man sitting on a bench facing the beach. ,A man sitting on a bench next to a body of water.,0.31702331385234306,0.712466835975647,0.79766357
+coco/val2017/000000455981.jpg,A white toilet that does not have it's seat down.,A white toilet with the seat and lid up.,0.13894429504872424,0.6298057436943054,0.8443681
+coco/val2017/000000429598.jpg,An interesting kitchen renovation with brick and wood,A kitchen with a stove top oven next to a sink.,0.02568481047180467,0.3025001883506775,0.63069254
+coco/val2017/000000453302.jpg,"A kitchen that has a tile floor, a refrigerator, a microwave, and a toaster.","A kitchen with a refrigerator, microwave and a door.",0.06281707246251618,0.6967158317565918,0.8388443
+coco/val2017/000000005477.jpg,large mustard yellow commercial airplane parked in the airport,A LOT airlines plane is on the runway.,0.02523907356031767,0.43145832419395447,0.6277229
+coco/val2017/000000068833.jpg,A kitchen that has carpeted floors and wooden cabinets.,A kitchen with a barstool and a microwave oven.,0.0699543285114998,0.42815274000167847,0.60402346
+coco/val2017/000000351609.jpg,a bunch of already peeled oranges grouped together ,A bowl of peeled oranges sitting on a table.,0.07517081801936397,0.4803638458251953,0.7732935
+coco/val2017/000000117645.jpg,A man riding a snowboard down a snow covered slope.,A person riding a snowboard down a snow covered slope.,0.7825422900366437,0.9677315950393677,0.9508309
+coco/val2017/000000459634.jpg,People are riding on motorcycles on a scenic road.,A motorcycle is traveling down the road with another motorcycle.,0.0,0.500236988067627,0.5852237
+coco/val2017/000000066841.jpg," A whimsical artistic toaster has eyes, a mouth, a nose, spoon feet, spoon ears, and a mixing beater tail.",A toaster with a face on it and spoons and a whisk as ears.,0.03630303318276003,0.34762048721313477,0.8442795
+coco/val2017/000000491213.jpg,A motorcycle of some sort parked somewhere during the day.,A motorcycle parked next to a classic car.,0.061389660515260625,0.4262107014656067,0.6708847
+coco/val2017/000000102707.jpg,a bottle a glass and utensils behind a stove,A bottle of wine sitting on a counter in a kitchen.,0.028424915360075714,0.21855781972408295,0.71366155
+coco/val2017/000000057672.jpg,The group paddles the boat down on the water.,A group of people riding on the back of a boat on a river.,0.049070511103326775,0.4594552516937256,0.71345437
+coco/val2017/000000524850.jpg,A crowd of people standing around a bus next to a parked jetliner.,A group of people walking towards a large airplane.,0.04819805429625322,0.6759936809539795,0.5984908
+coco/val2017/000000296969.jpg,A group of giraffe standing next to each other.,A group of giraffe standing next to each other on a field.,0.6132297420585351,0.8995176553726196,0.94546217
+coco/val2017/000000199977.jpg,The airplane in the sky is doing tricks while spitting out smoke. ,A plane flying through the air with smoke coming out of it.,0.02383765064930276,0.5088940262794495,0.87812257
+coco/val2017/000000140658.jpg,A brick building with a tall clock tower beside it.,A building with a clock tower and stained glass windows.,0.16934189459315158,0.6070875525474548,0.6032784
+coco/val2017/000000105249.jpg,A small bathroom has an open toilet seat.,"A bathroom with a toilet, sink and mirror.",0.03401086821506398,0.5488020181655884,0.6150092
+coco/val2017/000000407614.jpg,A smaller kitchen with a very decorated fridge. ,A kitchen with a stove top oven next to a white refrigerator freezer.,0.10457138848650196,0.5107353925704956,0.7506501
+coco/val2017/000000084241.jpg,A group of women in kitchen next to pot.,A group of women standing around a kitchen preparing food.,0.2777619034011791,0.6423783302307129,0.8328866
+coco/val2017/000000275749.jpg,A group of people standing in a room.,A group of people standing around a room.,0.5946035575013605,0.9006527066230774,0.91674185
+coco/val2017/000000266400.jpg,a row of motorcycles parked on a city street,A row of motorcycles parked next to each other.,0.2984745896009823,0.6407806277275085,0.88263583
+coco/val2017/000000437898.jpg,A medium sized home kitchen with wood cabinets.,"A kitchen with a stove, refrigerator and sink.",0.07882588442342651,0.4302738308906555,0.7282621
+coco/val2017/000000232348.jpg,Toaster and blender plugged in on a kitchen counter.,A toaster and a blender sitting on a counter.,0.07948346282299562,0.621346116065979,0.9445791
+coco/val2017/000000102331.jpg,A person on a motorcycle in the dirt doing tricks. ,A man flying through the air on a green dirt bike.,0.06527078148671275,0.5796210765838623,0.7271414
+coco/val2017/000000492878.jpg,A bathroom sink and its reflection in the mirror.,A bathroom sink with a cup of toothbrushes and other bathroom items.,0.11373546463821492,0.41084355115890503,0.62597054
+coco/val2017/000000245764.jpg,A cat sits on the edge of a toilet.,A black cat sitting on top of a white toilet.,0.07495153367715524,0.6918817162513733,0.85517645
+coco/val2017/000000480985.jpg,The shiny motorcycle has been put on display.,A motorcycle is parked in a large building.,0.028599617161713803,0.4876559376716614,0.64842975
+coco/val2017/000000345027.jpg,A scooter and tiny truck at a beach dry dock.,A motorcycle parked on a sandy beach near a truck.,0.03087179980863256,0.5223202109336853,0.7516296
+coco/val2017/000000520910.jpg,A lady is standing in pastel colored bathroom in front of the bathtub and there are christmas lights hanging up outside of the doorway. ,A woman standing in a bathroom wearing a school girl outfit.,0.01893364344508449,0.32978442311286926,0.59088206
+coco/val2017/000000519569.jpg,a kitchen with a refrigerator a counter with chairs,A kitchen with a bar and two white chairs.,0.1444977144915524,0.5578493475914001,0.80245084
+coco/val2017/000000397133.jpg,A man is in a kitchen making pizzas.,A man standing in a kitchen preparing food.,0.20757840628873095,0.7049804925918579,0.72773814
+coco/val2017/000000446651.jpg,Young girl with helmet on hold on tight to her father driving the motorcycle.,A man and a child on a motorcycle.,0.01606559657447872,0.4646022319793701,0.77046746
+coco/val2017/000000301376.jpg,A street area with a building and cars.,A traffic light sitting next to a street.,0.03401086821506398,0.4154643416404724,0.5105177
+coco/val2017/000000131273.jpg,A grey and white dog sitting in the passenger side of a car.,A husky dog sitting on a car seat.,0.0453387440309153,0.581092357635498,0.80928653
+coco/val2017/000000312278.jpg,Suitcases on top of a carrier onto of a vehicle.,A couple of suitcases sitting on top of a wooden bench.,0.24808415001701817,0.30444467067718506,0.5334779
+coco/val2017/000000404128.jpg,A propellor airplane is on a grassy runway.,A small airplane sitting on top of a runway.,0.03847958626277426,0.5928695797920227,0.7041902
+coco/val2017/000000135673.jpg,Two planes are close together in the sky.,A jet flying in the sky with a smaller plane flying below it.,0.044249674106354955,0.4774838089942932,0.7511208
+coco/val2017/000000263474.jpg,"A bathroom area with a toilet, trashcan and dresser.",A toilet with a colorful toilet seat cover.,0.0695635988471652,0.36797356605529785,0.5905965
+coco/val2017/000000408696.jpg,A man sitting on a toilet that isn't connected to anything. ,A man sitting on a toilet in a room.,0.4703490742954983,0.6494013071060181,0.8272562
+coco/val2017/000000484415.jpg,A hand is reaching out to the top if a toilet. ,A person's hand is on the flush button of a toilet.,0.08124031954514328,0.5398670434951782,0.79359394
+coco/val2017/000000560312.jpg,A run down waiting room at a transit station.,A room with a large window and a blackboard.,0.033866335496821456,0.2906106114387512,0.48629326
+coco/val2017/000000227478.jpg,"two women sitting on a park bench, one looking over her shoulder",A man and woman sitting on a bench.,0.10012670630217593,0.5185957551002502,0.5313512
+coco/val2017/000000254814.jpg,A busy city intersection clogged with bike traffic ,A street filled with lots of people riding motorcycles.,0.030601688609851067,0.42704591155052185,0.57084084
+coco/val2017/000000177935.jpg,A large white kitchen range with gold towels on the front.,A stove top oven sitting inside of a kitchen.,0.0206052556810215,0.2999895513057709,0.40897644
+coco/val2017/000000169076.jpg,A television is on a tv stand next to a bureau. ,A dog laying on the floor in front of a TV.,0.028424915360075714,0.4164634346961975,0.45432365
+coco/val2017/000000288062.jpg,A colorful toilet seat open in a toilet stall,A toilet with a green cow seat and a cow mural on the wall.,0.024869542143125947,0.31260132789611816,0.57784295
+coco/val2017/000000338304.jpg,A bunch of sheep make their way through the crowded city street.,A crowd of people standing around a pile of sheep.,0.022839165849062423,0.4988600015640259,0.68105966
+coco/val2017/000000342295.jpg,A white toilet sitting next to a bath tub filled with paintings.,A bathroom with a painting of a man sitting in a chair.,0.028347903757100078,0.4492138922214508,0.64441264
+coco/val2017/000000311081.jpg,A bathroom is adorned with beige and white tiles.,A white bath tub sitting next to a toilet.,0.030601688609851067,0.3821759819984436,0.68260396
+coco/val2017/000000191845.jpg,A crowd of people with umbrellas on a street.,A crowd of people walking across a street holding umbrellas.,0.2777619034011791,0.8450141549110413,0.82928705
+coco/val2017/000000513580.jpg,A motorcycle driving by a red and white biplane.,A red and white biplane flying over a motorcycle.,0.16418110161559327,0.7144795060157776,0.84542316
+coco/val2017/000000466156.jpg,The striped cat is sitting on top of the car.,A cat is standing on the hood of a car.,0.07495153367715524,0.7339599132537842,0.76328593
+coco/val2017/000000203317.jpg,A red and white bicycle next to a building and door.,A red bike parked in front of a building with a graffiti covered door.,0.06170290107295076,0.6020369529724121,0.8516135
+coco/val2017/000000279278.jpg,a person riding a skate board on a city street,A woman standing next to a red skateboard.,0.0222734042410851,0.564363420009613,0.5080003
+coco/val2017/000000491497.jpg,A fluffy white chair that faces away fro a television.,A living room with a TV and a book shelf.,0.027895820162122397,0.2832620441913605,0.4668398
+coco/val2017/000000383621.jpg,Commercial airliner flying  near mast on cloudy day.,A large propeller plane flying over a tall tower.,0.02573285025273419,0.30792510509490967,0.577059
+coco/val2017/000000032817.jpg,A man climbing on a toilet bowl in a closet,A man standing over a toilet in a bathroom.,0.09797098226340807,0.7161065340042114,0.74170077
+coco/val2017/000000579321.jpg,The person walking the dog has dressed it in a torn shirt.,A small dog wearing a costume on a leash.,0.021927068045387584,0.42087581753730774,0.63294923
+coco/val2017/000000410221.jpg,A jet liner flying above in the clear blue sky.,A large passenger jet flying through a blue sky.,0.07112492757056975,0.6711829304695129,0.8150064
+coco/val2017/000000045596.jpg,A view A large metal structure near the side of a building,A couple of people walking across a courtyard.,0.022829336647630066,0.3668392300605774,0.4029845
+coco/val2017/000000388258.jpg,"There is a bike that is parked by a bench, and an airplane that is high in the sky",A bicycle parked next to a wooden bench.,0.008599294172465275,0.43315809965133667,0.6337801
+coco/val2017/000000042102.jpg,A young man is dressed in a school skirt outfit.,A man wearing a skirt and holding a purse.,0.03256476497255973,0.5792195200920105,0.7431415
+coco/val2017/000000022396.jpg,"a plane flying by a bright moon in the sky
+",A large jetliner flying over a bright moon.,0.061389660515260625,0.6389734745025635,0.837962
+coco/val2017/000000186632.jpg,A flat screen TV sitting in a living room in front of a dining room table.,A bathroom with a flat screen TV and a chandelier.,0.08397788070495997,0.3520480990409851,0.5078871
+coco/val2017/000000485237.jpg,Two large jets sitting on top of an airport runway.,Two large jet airliners sitting on top of an airport runway.,0.6315552371794037,0.9210824370384216,0.89936924
+coco/val2017/000000239041.jpg,A television is reflected from a bathroom mirror.,A bathroom with a urinal mounted to the side of the mirror.,0.028347903757100078,0.3478052020072937,0.47798124
+coco/val2017/000000328959.jpg,"A bathroom with a toilet, shower and an hanging chain to flush the toilet. ",A toilet with a black seat next to a shower.,0.04539833407463399,0.40561217069625854,0.65160155
+coco/val2017/000000323202.jpg,A toilet that has three sea shells on top.,A toilet with three seashells on the tank,0.07475095167059852,0.7367251515388489,0.8554553
+coco/val2017/000000214205.jpg,a large air plane flying thru the air,A large passenger jet flying under a full moon.,0.033866335496821456,0.5018600821495056,0.6406111
+coco/val2017/000000463037.jpg,A plane site on a grassy country runway.,A small airplane sitting on top of a green field.,0.03087179980863256,0.4897000193595886,0.71406436
+coco/val2017/000000167540.jpg,An airplane flying in a cloudy blue sky.,A small airplane flying through a blue sky.,0.1065095472357353,0.7931607961654663,0.7423588
+coco/val2017/000000291634.jpg,One bicycle is parked next to many motorcycles.,A row of parked motorcycles sitting on the side of a road.,0.020044994979069072,0.4979664981365204,0.7197247
+coco/val2017/000000089761.jpg,A toilet seat behind a tree in the open outdoor.,A toilet sitting in the middle of a forest.,0.08458226992097476,0.5083808898925781,0.766188
+coco/val2017/000000409358.jpg,A modern bathroom with square sink and backlit mirror.,"A bathroom with a toilet, sink and mirror.",0.09837778493714244,0.6443750858306885,0.7241751
+coco/val2017/000000172083.jpg,Counter top inside a house designed with different colors. ,A colorful sink and mirror in a public restroom.,0.02573285025273419,0.3422563374042511,0.5245688
+coco/val2017/000000392481.jpg,A fighter jet plane ascending into the sky.,A fighter jet flying through a cloudy sky.,0.17739111163122614,0.7306112051010132,0.84506476
+coco/val2017/000000267903.jpg,A very old toilet and sink in an old room. ,A bathroom with a toilet and a sink.,0.061389660515260625,0.562200665473938,0.6505059
+coco/val2017/000000433915.jpg,A double image of a comedian and a singer on the television screen.  ,A television screen with a man wearing a blue suit.,0.024575835361036066,0.45799633860588074,0.5231066
+coco/val2017/000000537241.jpg,A big thick tasty looking pastry with icing on it.,A pastry with a hole in the middle and white frosting on top.,0.05262202728382899,0.41124227643013,0.82582176
+coco/val2017/000000104803.jpg,a toilet with glitter paint on it ,A toilet with a silver toilet seat and lid.,0.0699543285114998,0.4776741564273834,0.57863855
+coco/val2017/000000422706.jpg,People watching off the side of a cruise ship as a life boat is lowered.,A woman standing on a boat looking at a smaller boat.,0.019759407327808665,0.4236156642436981,0.56473494
+coco/val2017/000000129135.jpg,Yellow Train stopped at the station in front of a bench.  ,A yellow and blue train sitting in a train station.,0.025241181889490292,0.4274647831916809,0.76779354
+coco/val2017/000000538364.jpg,A policeman on a motorcycle at night watching pedestrians cross a street,A police officer riding on the back of a motorcycle.,0.025275691906194435,0.5294032096862793,0.71679735
+coco/val2017/000000287545.jpg,A couple of giraffe standing in a building.,A giraffe and a tiger standing next to each other.,0.033173907815632314,0.5638248324394226,0.5643449
+coco/val2017/000000482436.jpg,The woman in the diner and the man looking into the window are making eye contact.,A woman sitting at a table in a restaurant.,0.014059206006471658,0.3198566734790802,0.4646842
+coco/val2017/000000162858.jpg,cars setting at traffic light leading to capitol building,A street filled with traffic and a traffic light.,0.02573285025273419,0.2878125309944153,0.6402054
+coco/val2017/000000291791.jpg,A green motorcycle parked on top of a green lawn.,A green motorcycle parked on a green grass covered field.,0.4518010018049224,0.7964035272598267,0.938044
+coco/val2017/000000131138.jpg,a desk with a cup plate laptop monitor and keyboard,A computer desk with a laptop and a desktop on it.,0.13806117619808217,0.43957680463790894,0.6382006
+coco/val2017/000000022371.jpg,a man sitting at a desk in front of a laptop computer,A man sitting at a desk with a laptop computer.,0.3699033744491308,0.8533950448036194,0.9222629
+coco/val2017/000000351362.jpg,A white bath tub sitting next to a toilet.,"A bathroom with a tub, sink and toilet.",0.03321648882373042,0.46224310994148254,0.76951087
+coco/val2017/000000336232.jpg,A city street filled with lots of traffic and people.,A street filled with lots of traffic and a man riding a motorcycle.,0.48633831680799433,0.7390987873077393,0.7310958
+coco/val2017/000000174482.jpg,a blue bike parked on a side walk ,A blue bike parked on a sidewalk near a street.,0.4111336169005197,0.8163988590240479,0.9151728
+coco/val2017/000000038829.jpg,A man riding a bicycle with a boy on the back of it.,Two men riding on the back of a bicycle down a street.,0.24925832743644716,0.6541777849197388,0.6796941
+coco/val2017/000000289343.jpg,A man is riding a large bike through the park.,A person riding a bike down a street next to a dog.,0.05678170484701192,0.5956630706787109,0.47911274
+coco/val2017/000000267537.jpg,A black and white scene with two couples under umbrellas and rain jackets sitting at a stadium.,A group of women sitting on a bench holding umbrellas.,0.015330482086557377,0.4822115898132324,0.4803784
+coco/val2017/000000498286.jpg,a vety cute furry dog posing near a big sign.,A dog with a collar on standing in front of a building.,0.026380696981716002,0.4052477180957794,0.7156398
+coco/val2017/000000066231.jpg,a number of people in a kitchen preparing food ,A group of chefs preparing food in a kitchen.,0.09452229951416066,0.7024095058441162,0.82001126
+coco/val2017/000000214869.jpg,A woman sitting down with a large cell phone holder on her pants.,A woman holding a cell phone in her hand.,0.06343220673417213,0.6006264090538025,0.5416621
+coco/val2017/000000415194.jpg,A kitchen that has a table and a chair.,A kitchen with a checkered floor and a table and chairs.,0.16418333304040367,0.6728618144989014,0.8756555
+coco/val2017/000000142324.jpg,A person on a motor bike on a street.,A man riding a motorcycle down a street next to a crowd of people.,0.023143716762037445,0.689104437828064,0.623407
+coco/val2017/000000494869.jpg,A woman standing at a kitchen counter with a child and a dog is behind her.,A woman and a baby in a kitchen.,0.03918267271650564,0.5744045376777649,0.70835125
+coco/val2017/000000074058.jpg,A sidewalk next to the outdoor sitting area of a restaurant.,A group of people sitting under umbrellas at a restaurant.,0.06479712906415719,0.4503927528858185,0.5529809
+coco/val2017/000000566042.jpg,Six giraffe are standing looking in the same direction.,A group of giraffes standing next to each other.,0.02573285025273419,0.46963053941726685,0.8158581
+coco/val2017/000000136715.jpg,A man on a motorbike rides down the street.,A man riding on the back of a motorcycle down a street.,0.06530823398582637,0.7126299738883972,0.7844988
+coco/val2017/000000056350.jpg,A picture of people is on the floor near a urinal.,A bathroom with a urinal and a picture of people on the floor.,0.1331052549170149,0.6006395220756531,0.9201791
+coco/val2017/000000458054.jpg,A row of white toilets sitting on top of a dirt ground.,A bunch of toilets that are sitting in the dirt.,0.027160498528432196,0.5305947661399841,0.93301034
+coco/val2017/000000256941.jpg,a bicycle with a basket and a blue and pink umbrella ,A bicycle with a basket and an umbrella on top of it.,0.33180774028439425,0.6874721646308899,0.95561683
+coco/val2017/000000517523.jpg,A 787 airplane is landing at the airport.,A large jetliner flying through a cloudy sky.,0.028599617161713803,0.41803959012031555,0.6013918
+coco/val2017/000000319696.jpg,A red microwave on a tile kitchen counter.,A red microwave oven sitting on top of a kitchen counter.,0.15879290035049448,0.7208855152130127,0.93644035
+coco/val2017/000000110359.jpg,Commercial jet passing overhead on bright cloudless sky.,A large jetliner flying through a blue sky.,0.028599617161713803,0.549793004989624,0.72171
+coco/val2017/000000329614.jpg,a double deckered bus on a city street,A yellow bus driving past a tall building.,0.03401086821506398,0.3131144642829895,0.47190064
+coco/val2017/000000104572.jpg,a bath room with sinks and mirrors ,A public bathroom with orange and black tile.,0.03401086821506398,0.3610268831253052,0.5157087
+coco/val2017/000000033114.jpg,A few meters are sitting near an Air plane. ,A large jetliner taking off from an airport runway.,0.030601688609851067,0.28704193234443665,0.50411654
+coco/val2017/000000524108.jpg,Several motorcycles are stacked together side by side. ,A row of motorcycles parked next to each other.,0.02573285025273419,0.48385271430015564,0.8422604
+coco/val2017/000000183500.jpg,A person is flying a biplane in the sky.,A small airplane flying through a cloudy sky.,0.03569344013073345,0.5769472718238831,0.680338
+coco/val2017/000000210032.jpg,Two birds preparing to eat food off of a plate that was left on a table outside by the ocean.,A couple of birds sitting on top of a plate of food.,0.06174385691661947,0.5209181308746338,0.8029163
+coco/val2017/000000567432.jpg,A colorful plane flying over head and telephone wires,A large passenger jet flying through a blue sky.,0.030601688609851067,0.39273765683174133,0.55600715
+coco/val2017/000000010977.jpg,A bath and a toilet in a small room.,A bathroom with a pink tiled tub next to a toilet.,0.028424915360075714,0.41472870111465454,0.6725323
+coco/val2017/000000229358.jpg,A man standing in front of a mirror in a room.,A man taking a picture of himself in a bathroom mirror.,0.08124031954514328,0.6017007827758789,0.75989425
+coco/val2017/000000129756.jpg,A man that is standing in the grass near animals.,A man walking his sheep down a hillside.,0.05547182024251767,0.4846522808074951,0.6459354
+coco/val2017/000000376284.jpg,A fire hydrant and some cars on a street.,A row of fire hydrants sitting on the side of a road.,0.028347903757100078,0.5576420426368713,0.6310432
+coco/val2017/000000507473.jpg,A girl is taking a selfie while brushing her teeth.,A woman brushing her teeth while taking a selfie.,0.08852677586884013,0.8148114085197449,0.9287598
+coco/val2017/000000570834.jpg,Bikes are being transported in a subway car.,A man standing in a room with lots of bicycles.,0.056950849982219685,0.33301830291748047,0.3567028
+coco/val2017/000000487583.jpg,A white toilet and cup in a room.,A bathroom with a toilet and a table with a plate on it.,0.05262202728382899,0.49638891220092773,0.66807044
+coco/val2017/000000096001.jpg,"A table topped with a book, umbrella and other items.",A table topped with a green umbrella and lots of knick knacks.,0.3646285861936467,0.620873212814331,0.6611652
+coco/val2017/000000505169.jpg,A toilet next to a chain shower stall in a bathroom.,A bathroom with a blue tile wall and a toilet.,0.027933959628966113,0.40195024013519287,0.64437306
+coco/val2017/000000290768.jpg,"A kitchen with a counter, window, stove and cutlery. ","A kitchen with a stove, oven, and a window.",0.3155984539112945,0.7578393220901489,0.77020514
+coco/val2017/000000376442.jpg,A black plush toy sitting on the lid of a toilet.,A black teddy bear sitting on top of a white toilet seat.,0.08270115146021437,0.6493571400642395,0.81679034
+coco/val2017/000000293245.jpg,A Yamaha motorcycle parked outside of a building.,A motorcycle parked in front of a building with large numbers on it.,0.06616869624437408,0.6425721645355225,0.7658323
+coco/val2017/000000321557.jpg,a close up of a motorcycle parked near a building,A black motorcycle parked in front of a building.,0.07999297204820358,0.535758376121521,0.8782625
+coco/val2017/000000481386.jpg,A women who is holding a whisk in the kitchen.,A woman standing in a kitchen next to a table.,0.03087179980863256,0.5876668095588684,0.67913646
+coco/val2017/000000154718.jpg,A person is standing over a dirty toilet in a bathroom stall. ,A toilet with a lot of pink toilet paper on the tank.,0.026380696981716002,0.37300825119018555,0.5178237
+coco/val2017/000000540502.jpg,A white refrigerator and a counter in a room.,"A kitchen with a refrigerator, microwave and a counter.",0.07517081801936397,0.49015241861343384,0.7228131
+coco/val2017/000000111086.jpg,Two rows of cars parked next to a boat.,A bunch of cars are parked in a lot.,0.07517081801936397,0.5679031610488892,0.5909474
+coco/val2017/000000144798.jpg,a close up of a toilet and a bath tub with toys,A bathroom with a toilet and a bath tub.,0.3347189874003768,0.4993222951889038,0.64689136
+coco/val2017/000000306733.jpg,"Bathroom with sink, shower, towels, curtain, and more with window",A bathroom with a white tub next to a sink.,0.023457495174891017,0.3228747844696045,0.60021853
+coco/val2017/000000424776.jpg,a grey colored jet plane flying over a snowy mountain range.,A fighter jet flying over a snow covered mountain.,0.12433281805665462,0.6780317425727844,0.8842505
+coco/val2017/000000384350.jpg,a white and red plane parked on a tarmac,A large jetliner sitting on top of an airport runway.,0.023457495174891017,0.44784116744995117,0.60822487
+coco/val2017/000000569917.jpg,A small bathroom has a sink and a storage rack over the toilet.,"A bathroom with a sink, mirror and toilet.",0.022891205783708363,0.6552408337593079,0.6883898
+coco/val2017/000000166521.jpg,A room that has two televisions in it.,A flat screen TV sitting on top of a wooden shelf.,0.021598265052211615,0.32071202993392944,0.636178
+coco/val2017/000000468925.jpg,"a plate with bacon, eggs and hamburger topped with bananas","A plate of food with eggs, bacon, and bananas.",0.03256476497255973,0.648957371711731,0.9097189
+coco/val2017/000000101787.jpg,An airplane flies high above in the sky with telephone lines in the picture as well. ,An airplane flying in the sky with power lines below.,0.1781815298791261,0.5884289145469666,0.85760677
+coco/val2017/000000356347.jpg,A blue pot of tomato sauce with a wooden ladle.,A pot filled with red sauce and a wooden spoon.,0.07495153367715524,0.6274370551109314,0.7269329
+coco/val2017/000000187249.jpg,A TV with a man and a woman on it's display.,A bottle of water sitting in front of a television.,0.025241181889490292,0.35717177391052246,0.47839156
+coco/val2017/000000568690.jpg,A small cat sits perched on the back of a toilet.,A cat sitting on top of a white toilet in a bathroom.,0.06003934299439418,0.672313392162323,0.89526635
+coco/val2017/000000164602.jpg,A man and a woman standing in front of a mirror.,A woman brushing her teeth with a man in a bathroom.,0.033803111589552175,0.48122379183769226,0.55541074
+coco/val2017/000000284698.jpg,The image of a man holding a camera is in this motorcycle side mirror. ,A man taking a picture of himself in a rear view mirror.,0.026555919944267994,0.45904627442359924,0.7351166
+coco/val2017/000000479126.jpg,Two women sitting outside hanging out and smoking cigarettes.,A woman sitting in front of a laptop computer.,0.02573285025273419,0.47984468936920166,0.17704213
+coco/val2017/000000242287.jpg,A bicycle that is resting upon the wall of a building.,A bike parked in front of a building with a wooden door.,0.05284133043873052,0.5343337059020996,0.75005484
+coco/val2017/000000493286.jpg,an old car in front of an old air plane,A red car parked next to a large airplane.,0.02302676613984314,0.5182591676712036,0.6982491
+coco/val2017/000000169996.jpg,Men on bikes riding alongside a car on the street,A group of people riding bikes on a city street.,0.033173907815632314,0.5584529042243958,0.7389401
+coco/val2017/000000484760.jpg,A statue of the virgin Mary holding an orb of light.,A statue of a woman standing in front of a church.,0.12475235543331888,0.587003231048584,0.62445486
+coco/val2017/000000034760.jpg,A small and near bathroom that's inside someone's house.,"A bathroom with a toilet, sink, mirror and shower.",0.033866335496821456,0.22965416312217712,0.5526992
+coco/val2017/000000163258.jpg,A white toilet sitting in a bathroom next to a wall.,A white toilet sitting next to a walk in shower.,0.355433394487517,0.6998098492622375,0.7368309
+coco/val2017/000000226417.jpg,Many people are driving motorcycles through an intersection.,A group of people riding motorcycles down a street.,0.030601688609851067,0.6224063038825989,0.77022505
+coco/val2017/000000472046.jpg,"A kitchen with a stove, sink, table, chairs and couches.",A kitchen with a stove top oven next to a kitchen island.,0.21200626759025185,0.4953562617301941,0.64432627
+coco/val2017/000000190756.jpg,A man flying through the air while riding a bike.,A man flying through the air while riding a motorcycle.,0.8801117367933934,0.974396824836731,0.78522915
+coco/val2017/000000237984.jpg,A green bench sitting on the side of a sidewalk.,A green bench sitting next to a green chair.,0.2824099048856541,0.6278937458992004,0.7451664
