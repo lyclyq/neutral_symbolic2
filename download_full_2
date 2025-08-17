@@ -1,0 +1,29 @@
+import requests
+from tqdm import tqdm
+
+# NIH Box 的共享文件 ID 和文件名映射
+file_list = {
+    "0fm4v74j9m8tk5f5lw7tgrz3r5p2l1px": "images_001.zip",
+    "1urx2urx4k1twevjpsm45vsf5k37m4z8": "images_002.zip",
+    "03b5sbwti6i6n27j0fss1r7vu9m7hk2h": "images_003.zip",
+    "k4yrq5wjdnke7vw8s4nca4rpuz5ljg0s": "images_004.zip",
+    "ly6j4kigixc0fex7rrfdi0cj1f0v2fyh": "images_005.zip",
+    "fvv0vayiqb3put1p5xnbb0w1hj5eqs3r": "images_006.zip",
+    "r6k3xyqplct2w1cmkzjv0ynedmztqlrd": "images_007.zip",
+    "1lsw92jztdm1klvjgyd7fmwj6xot0jbs": "images_008.zip",
+    "8z9v9bs1w5aq0vnm16dpq1qqz3l2a27s": "images_009.zip",
+    "9zjlf88w0f9n7f0d8bs5yz1xb4br6m3z": "images_010.zip",
+    "82g0ehqshrbqklwq927dxs5mboeo1vxg": "images_011.zip",
+    "gc5s2f87zj7p8f1cr5u3gb65upbl0a4u": "images_012.zip"
+}
+
+base_url = "https://nihcc.app.box.com/shared/static/{}.zip"
+
+for file_id, filename in file_list.items():
+    url = base_url.format(file_id)
+    print(f"Downloading {filename} from {url}")
+    response = requests.get(url, stream=True)
+    with open(filename, 'wb') as f:
+        for chunk in tqdm(response.iter_content(chunk_size=1024*1024), desc=filename):
+            if chunk:
+                f.write(chunk)
